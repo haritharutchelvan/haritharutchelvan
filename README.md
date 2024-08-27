@@ -1,4 +1,4 @@
-Hi, I’m Harith!
+## Hi, I’m Harith!
 
 -🎓 Final year B.Tech CSE (Core) student at VIT Vellore.
 
